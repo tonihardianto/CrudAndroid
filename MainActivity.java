@@ -1,4 +1,4 @@
-package giviews.id.splash;
+package com.hrdapr.CrudCridCradCred;
 
 import android.database.Cursor;
 import android.os.Bundle;
